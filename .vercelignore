@@ -1,0 +1,6 @@
+# Git files
+.git
+.gitattributes
+
+# Documentation (README will still be accessible in repo)
+README.md
